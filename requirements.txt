@@ -1,0 +1,5 @@
+anthropic
+python-telegram-bot>=21
+pypdf
+rank-bm25
+python-dotenv
